@@ -9,6 +9,7 @@ packages = [{include = "advent_of_code_2022"}]
 python = "^3.9"
 ttp = "^0.9.5"
 numpy = "^1.25.0"
+networkx = "^3.1"
 
 
 [tool.poetry.group.dev.dependencies]
